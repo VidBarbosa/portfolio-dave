@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "daveBarbosa",
+        "username": "david-b-3aa135278",
         "url": "https://www.linkedin.com/in/david-b-3aa135278/"
       },
       {
         "network": "GitHub",
-        "username": "vidBarbosa",
-        "url": "https://github.com/midudev"
+        "username": "VidBarbosa",
+        "url": "https://github.com/VidBarbosa"
       }
     ]
   },
@@ -233,7 +233,8 @@
         "App para emprendedores",
         "Finanzas y ventas"
       ],
-      "url": "https://www.abhaco.app"
+      "url": "https://www.abhaco.app",
+      "github": ""
     },
     {
       "name": "Emotions",
@@ -244,7 +245,8 @@
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https:/emotions.us"
+      "url": "https:/emotions.us",
+      "github": ""
     },
     {
       "name": "Enventors",
@@ -254,7 +256,8 @@
         "+2000 usuarios activos",
         "Cursos Online"
       ],
-      "url": "https://enventors.us"
+      "url": "https://enventors.us",
+      "github": ""
     }
   ]
 }
